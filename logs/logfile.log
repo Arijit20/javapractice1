@@ -1,0 +1,4 @@
+INFO  | 2020-09-19 15:11:14 | [main] javapractice1.App (App.java:17) - Hello World!Will Be Printed On Info
+WARN  | 2020-09-19 15:11:14 | [main] javapractice1.App (App.java:18) - Hello World!Will Be Printed On Warn
+FATAL | 2020-09-19 15:11:14 | [main] javapractice1.App (App.java:19) - Hello World!Will Be Printed On Fatal
+INFO  | 2020-09-19 15:11:14 | [main] javapractice1.App (App.java:20) - Appending string: Hello World!.
