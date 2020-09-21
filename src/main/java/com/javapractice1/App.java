@@ -19,6 +19,5 @@ public class App
         LOG.fatal(message + "Will Be Printed On Fatal");
         LOG.info("Appending string: {}.", message);
         System.out.println(message);
-	    System.out.println(message1);
     }
 }
